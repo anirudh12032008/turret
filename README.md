@@ -29,3 +29,9 @@ and flash the firmware from code
 | | **Total** | | | **₹1,047** | **$11.14** | |
 
 > **Total estimated cost: ₹1,047 (~$11.14), excluding taxes.**
+
+## Wiring diagram
+<img width="890" height="862" alt="Screenshot 2026-09-01 at 8 02 13 AM" src="https://github.com/user-attachments/assets/17d95478-4c31-4657-a4fe-dc21a6d2fd2d" />
+
+## Images
+<img width="486" height="508" alt="Screenshot 2026-08-19 at 8 13 22 AM" src="https://github.com/user-attachments/assets/9b702a71-8c1d-446f-b4d6-91850d7855dd" />
